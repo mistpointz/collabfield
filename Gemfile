@@ -65,3 +65,5 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 
 gem 'devise'
+
+gem 'bootstrap_form'
